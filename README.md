@@ -45,7 +45,9 @@ This is a simple Snake Game implemented in Java using Swing. The game consists o
 
 ## Screenshots
 
-[Include screenshots or GIFs of the game in action.]
+<img width="299" alt="snake" src="https://github.com/janbodnar/Java-Tetris-Game/assets/67701429/0fb44e19-47ba-4efa-a3c6-05c89163e092">
+<img width="299" alt="snake_gameover" src="https://github.com/janbodnar/Java-Tetris-Game/assets/67701429/acd0f110-5b6d-4f27-a9ef-5d3392b61a9c">
+
 
 ## Contributing
 
